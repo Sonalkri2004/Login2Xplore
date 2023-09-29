@@ -24,3 +24,38 @@ Benefits of Using JsonPowerDB:
 
  Release History:
  Version 1.0 (Initial Release): GitHub Repository (29/09/2023)
+
+
+ Additional
+
+Table of Contents:
+ 
+Title of the Project
+Description
+Benefits of Using JsonPowerDB
+Release History
+Table of Contents
+Illustrations
+Scope of Functionalities
+Examples of Use
+Project Status
+Sources
+Other Information
+
+
+Scope of Functionalities:
+
+The project demonstrates the following functionalities:
+ Integration of JsonPowerDB into a Java Servlet-based web application.
+ Storing and retrieving JSON data from JsonPowerDB using NetBeans.
+ Real-time data processing for dynamic web content.
+ User authentication and session management.
+ Responsive front-end design for various devices.
+
+Project Status:
+ The project is currently in active development. The core functionalities have been implemented, and the project is undergoing rigorous 
+ testing to ensure reliability and performance. Contributions and feedback from the community are welcome.
+
+Sources:
+JsonPowerDB Official Documentation
+NetBeans IDE Official Website
